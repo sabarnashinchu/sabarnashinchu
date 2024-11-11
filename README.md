@@ -4,6 +4,7 @@ Information Technology Student<br/>
 - 🌱 I’m currently learning AIML
 - 🤔 I’m looking for help with Placements in Java
 - 💬 Ask me about Tech
+-  🤔  You can reach me:
 <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sabarna-t-3b668225a/)
 - 😄 Pronouns: Developer
 - ⚡ Fun fact: Make code Have fun.
