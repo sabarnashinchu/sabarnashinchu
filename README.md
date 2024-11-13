@@ -32,7 +32,6 @@ Information Technology Student<br/>
   <img src="https://github-profile-trophy.vercel.app?username=sabarnashinchu&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-###
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sabarna15?theme=dark&font=Marcellus&ext=contest)
