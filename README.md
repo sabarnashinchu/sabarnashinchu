@@ -125,6 +125,14 @@
   <img src="https://github-profile-trophy.vercel.app?username=sabarnashinchu&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 </div>
 
+## 🏆 GitHub Score & Metrics
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabarnashinchu&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabarnashinchu&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabarnashinchu&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sabarnashinchu&theme=tokyonight" />
+</div>
+
 ## 🏆 LeetCode Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Sabarna15?theme=tokyonight&font=Marcellus&ext=contest&animation=true" />
@@ -140,13 +148,16 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabarnashinchu&theme=tokyonight" />
 </div>
 
+## ⭐ GitHub Profile Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sabarnashinchu&style=flat-square&color=blue" alt=""/>
+  <img src="https://img.shields.io/github/followers/sabarnashinchu?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/sabarnashinchu?label=Stars&style=social" alt="GitHub Stars"/>
+</div>
+
 ---
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabarnashinchu&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div align="center">
