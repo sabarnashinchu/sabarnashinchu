@@ -1,9 +1,9 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sabarna%20T&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AIML%20Enthusiast&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Sabarna%20T&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AIML%20Enthusiast&descAlignY=55&descAlign=50"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3AC&center=true&vCenter=true&width=600&height=100&lines=Information+Technology+Student;AIML+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3AC&center=true&vCenter=true&width=600&height=100&lines=Information+Technology+Student;AIML+Enthusiast;Full+Stack+Developer;Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,6 +14,10 @@
 
 <div align="center">
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/octocat.gif?raw=true" width="100"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/grid-snake.svg" width="100%"/>
 </div>
 
 - 🎓 Information Technology Student
@@ -85,19 +89,28 @@
 
 ## 🏆 LeetCode Stats
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Sabarna15?theme=tokyonight&font=Marcellus&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Sabarna15?theme=tokyonight&font=Marcellus&ext=contest&animation=true" />
 </div>
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabarnashinchu&bg_color=1a1b27&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabarnashinchu&bg_color=1a1b27&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true&area_color=9e4c98&area_alpha=0.3" />
+</div>
+
+## 🎯 Recent Achievements
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabarnashinchu&theme=tokyonight" />
 </div>
 
 ---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sabarnashinchu&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div> 
