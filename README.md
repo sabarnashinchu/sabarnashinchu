@@ -1,14 +1,12 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=230&section=header&text=Sabarna%20T&fontSize=90&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AIML%20Enthusiast&descAlignY=58&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=240&section=header&text=Sabarna%20T&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AIML%20Enthusiast&descAlignY=58&descAlign=50"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=6AD3AC&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Coffee+%E2%98%95+%3D+Code+%F0%9F%92%BB;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Coffee+%E2%98%95+%3D+Code+%F0%9F%92%BB;Always+Learning" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
-</div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sabarna-t-3b668225a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -23,20 +21,15 @@
 
 ## <div align="center">👨‍💻 About Me</div>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
+<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBiZGE0Y2NkYjFiMTE2NmFmY2U1NjJlM2ExZjM2MWM4MTQ3YmQ3OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 Information Technology Student
 - 🌱 Currently diving deep into **AIML & Full Stack Development**
 - 💡 Passionate about solving real-world problems through code
 - 🎯 Looking for opportunities in **Java Development**
 - 💬 Ask me about **Tech, AI, or anything interesting!**
-- 🌐 Portfolio: [Coming Soon](#)
-- 📝 Resume: [View Resume](#)
+- 📝 Resume: [View Resume](https://drive.google.com/file/d/1yhSA7THSyxwYK5fRo5hnJAqfXPereEhl/view?usp=sharing)
 - ⚡ Fun fact: **I turn coffee into code!**
-
-<p align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/grid-snake.svg" width="100%"/>
-</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -162,7 +155,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <hr width="90%" style="height: 2px; background: linear-gradient(to right, #8A2387, #E94057, #F27121);">
 </div>
 
 ## <div align="center">📊 GitHub Stats</div>
@@ -180,7 +173,7 @@
 ## <div align="center">📈 Activity Graph</div>
 
 <div align="center">
-  <img alt="Sabarna's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sabarnashinchu&bg_color=141321&color=ff3068&line=a8fdf6&point=ff3068&area=true&hide_border=true&area_color=ff3068&area_alpha=0.2" />
+  <img alt="Sabarna's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sabarnashinchu&bg_color=0D1117&color=00FFFF&line=00FFAA&point=FFFFFF&area=true&hide_border=true&area_color=00FFB3&area_alpha=0.2" />
 </div>
 
 ## <div align="center">🏆 LeetCode Stats</div>
@@ -192,22 +185,26 @@
 ## <div align="center">🌱 My Latest Projects</div>
 
 <div align="center">
-  <a href="https://github.com/sabarnashinchu/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabarnashinchu&repo=project1&theme=radical" />
+  <!-- Actual project links -->
+  <a href="https://github.com/sabarnashinchu/smart-Task-manager-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabarnashinchu&repo=smart-Task-manager-&theme=radical" />
   </a>
-  <a href="https://github.com/sabarnashinchu/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabarnashinchu&repo=project2&theme=radical" />
+  <a href="https://github.com/sabarnashinchu/Face-Fun-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabarnashinchu&repo=Face-Fun-Website&theme=radical" />
   </a>
 </div>
 
-## <div align="center">🎵 Currently Vibing To</div>
-
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k44iy7jg4xd2zccr3zlacbh4ny&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" />
+  <p>
+    <a href="https://github.com/sabarnashinchu/smart-Task-manager-"><b>Smart Task Manager</b></a> - A full-stack task management application combining React/Material-UI frontend with Spring Boot backend
+  </p>
+  <p>
+    <a href="https://github.com/sabarnashinchu/Face-Fun-Website"><b>Face Fun Website</b></a> - Interactive face detection and analysis application
+  </p>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <hr width="90%" style="height: 2px; background: linear-gradient(to right, #8A2387, #E94057, #F27121);">
 </div>
 
 <h2 align="center">📫 Reach Out to Me</h2>
@@ -226,5 +223,5 @@
 
 ---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&animation=twinkling&fontSize=40&fontAlignY=80&descSize=20&descAlignY=88"/>
 </div> 
